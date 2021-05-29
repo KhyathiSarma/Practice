@@ -1,0 +1,37 @@
+[
+	{
+		"Name"     : "Abraham",
+		"Age"      : 23,
+		"Height"   : "5'6",
+		"Weight"   : 65,
+		"NickName" : "Abbu"
+	},
+	{
+		"Name"     : "Watson",
+		"Age"      : 50,
+		"Height"   : "5'0",
+		"Weight"   : 70,
+		"NickName" : "Walt"
+	},
+	{
+		"Name"     : "Miller",
+		"Age"      : 43,
+		"Height"   : "6'4",
+		"Weight"   : 76,
+		"NickName" : "Milo"
+	},
+	{
+		"Name"     : "Donald",
+		"Age"      : 22,
+		"Height"   : "4'3",
+		"Weight"   : 43,
+		"NickName" : "Duck"
+	},
+	{
+		"Name"     : "Usher",
+		"Age"      : 32,
+		"Height"   : "6'2",
+		"Weight"   : 78,
+		"NickName" : "Ullipai"
+	}
+]
