@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl'?> 
+<Info>
+
+	<D>
+		<Name>Abraham</Name>
+		<Designation>Student</Designation>
+	</D>
+	<D>
+		<Name>Watson</Name>
+		<Designation>Employee</Designation>
+	</D>
+	<D>
+		<Name>Miller</Name>
+		<Designation>Student</Designation>
+	</D>
+	<D>
+		<Name>Donald</Name>
+		<Designation>Employee</Designation>
+	</D>
+	<D>
+		<Name>Usher</Name>
+		<Designation>Student</Designation>
+	</D>
+
+</Info>
